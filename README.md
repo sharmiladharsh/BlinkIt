@@ -22,7 +22,7 @@ Blinkit is a Power BI dashboard designed for analyzing and visualizing key metri
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/dharshini2284/Blinkit.git
+git clone https://github.com/sharmiladharsh/Blinkit.git
 cd Blinkit
 ```
 
@@ -30,7 +30,7 @@ cd Blinkit
 
 - Install [Microsoft Power BI](https://powerbi.microsoft.com/)
 - Open the `.pbix` file in Power BI Desktop.
-- Connect to the dataset if needed.
+- Connect to the dataset if you need it.
 
 ### 3️⃣ Explore the Dashboard
 
